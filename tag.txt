@@ -1,3 +1,0 @@
-category: 必修
-semester: 第二学年夏季
-name: 计算机设计与实践
