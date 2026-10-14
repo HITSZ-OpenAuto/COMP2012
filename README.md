@@ -1,9 +1,5 @@
 # COMP2012 - 计算机设计与实践
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验100%](https://img.shields.io/badge/实验-100%25-wheat)
 
 ## 授课教师
 
