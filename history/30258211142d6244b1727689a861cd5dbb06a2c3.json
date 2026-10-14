@@ -1,0 +1,127 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814653,
+    "hash": "6f0caa65aebbef3e99672db6fb902b1882eacc38"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754197901,
+    "hash": "6da4aa91b22cf52b63fd8614d1b1e945d5bd0f8c"
+  },
+  "README.md": {
+    "size": 2780,
+    "time": 1791961485,
+    "hash": "30258211142d6244b1727689a861cd5dbb06a2c3"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754197901,
+    "hash": "6da4aa91b22cf52b63fd8614d1b1e945d5bd0f8c"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754197901,
+    "hash": "6da4aa91b22cf52b63fd8614d1b1e945d5bd0f8c"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754197901,
+    "hash": "6da4aa91b22cf52b63fd8614d1b1e945d5bd0f8c"
+  },
+  "labs/lab2021/Lab1-RISC-V汇编实验.pdf": {
+    "size": 911319,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab1-riscv-asm.zip": {
+    "size": 5709612,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab2-1-单周期CPU设计(取指、译码).pdf": {
+    "size": 890517,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab2-2-单周期CPU设计(执行、访存、写回)【100周年特别版】.pdf": {
+    "size": 609107,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab2-3-单周期CPU设计(控制、仿真调试).pdf": {
+    "size": 771169,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab2-4-CPU验证与下板(Trace比对、下板).pdf": {
+    "size": 534369,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab3-1-流水线CPU设计(理想流水线).pdf": {
+    "size": 713277,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab3-2-流水线CPU设计(停顿).pdf": {
+    "size": 653847,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab3-3-流水线CPU设计(数据前递).pdf": {
+    "size": 548882,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Lab3-4-流水线CPU设计(外设IO).pdf": {
+    "size": 925321,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Theory1-单周期CPU设计与实现.pdf": {
+    "size": 4970269,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/Theory2-流水线CPU设计与实现.pdf": {
+    "size": 2243021,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/download_test.zip": {
+    "size": 2044192,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/miniRV-1指令总表.xlsx": {
+    "size": 13581,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/数据通路表、控制信号取值表 - 参考模板.xlsx": {
+    "size": 12432,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "labs/lab2021/计算机设计与实践报告模板2021（7-19）.docx": {
+    "size": 236554,
+    "time": 1756827066,
+    "hash": "fc0019bafe1807cd01ff78b23ee296d08d56c2f1"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754197901,
+    "hash": "6da4aa91b22cf52b63fd8614d1b1e945d5bd0f8c"
+  },
+  "readme.toml": {
+    "size": 2681,
+    "time": 1773428091,
+    "hash": "383463456165119f8f62d97dac6aff6d187afd6f"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754197901,
+    "hash": "6da4aa91b22cf52b63fd8614d1b1e945d5bd0f8c"
+  }
+}
